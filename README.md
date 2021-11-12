@@ -1,4 +1,4 @@
-# AlQuran-Android
+# Al-Quran-Android
 SOURCE CODE APLIKASI AL-QURAN DENGAN ANDROID STUDIO
 
 # Tutorial Build with Android Studio
