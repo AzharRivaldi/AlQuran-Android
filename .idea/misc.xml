@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/bg_circle.xml" value="0.22552083333333334" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/ic_bg_row.xml" value="0.20462962962962963" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/ic_play.xml" value="0.20462962962962963" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/ic_stop.xml" value="0.22552083333333334" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/drawable/textlines.xml" value="0.22552083333333334" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/activity_detail.xml" value="0.20462962962962963" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/activity_masjid.xml" value="0.1" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/fragment_jadwal_sholat.xml" value="0.209375" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/list_item_ayat.xml" value="0.209375" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/list_item_surah.xml" value="0.1" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/toolbar.xml" value="0.20092592592592592" />
+        <entry key="..\:/AS Source Code/Konten/AlQuran-Android/app/src/main/res/layout/toolbar_main.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
