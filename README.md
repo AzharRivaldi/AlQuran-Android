@@ -2,6 +2,7 @@
 SOURCE CODE APLIKASI AL-QURAN DENGAN ANDROID STUDIO
 
 Source Code ini sudah di update. Untuk source code versi lama, silahkan lihat di Youtube https://youtu.be/NKzhWqA9lDw
+
 Berikut Update-nya :
 - FAN (Fast Android Networking) -> Retrofit
 - Java -> Kotlin
