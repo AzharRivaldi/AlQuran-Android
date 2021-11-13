@@ -1,8 +1,13 @@
-# Al-Quran-Android
+# UPDATE Al-Quran-Android
 SOURCE CODE APLIKASI AL-QURAN DENGAN ANDROID STUDIO
 
-# Tutorial Build with Android Studio
-https://youtu.be/NKzhWqA9lDw
+Source Code ini sudah di update. Untuk source code versi lama, silahkan lihat di Youtube https://youtu.be/NKzhWqA9lDw
+Berikut Update-nya :
+- FAN (Fast Android Networking) -> Retrofit
+- Java -> Kotlin
+- MVP -> MVVM
+- Pembaruan Maps Pencarian Masjid
+- Update Library with Android Studio Arctic Fox | 2020.3.1
 
 # Tutorial Build with Step by Step
 https://rivaldi48.blogspot.com/2019/04/tutorial-membuat-aplikasi-al-quran.html
