@@ -9,6 +9,7 @@ Berikut Update-nya :
 - MVP -> MVVM
 - Pembaruan Maps Pencarian Masjid
 - Update Library with Android Studio Arctic Fox | 2020.3.1
+- DEMO APLIKASI https://youtu.be/SMYpSk_GHKo
 
 # Tutorial Build with Step by Step
 https://rivaldi48.blogspot.com/2019/04/tutorial-membuat-aplikasi-al-quran.html
